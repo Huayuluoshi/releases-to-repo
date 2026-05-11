@@ -1,15 +1,15 @@
 Package: peazip
 Architecture: amd64
-Version: 11.0.0
+Version: 11.1.0
 Priority: optional
 Section: contrib/utils
 Maintainer: Giorgio Tani <giorgio.tani.software@gmail.com>
-Filename: https://github.com/peazip/PeaZip/releases/download/11.0.0/peazip_11.0.0.LINUX.GTK2-1_amd64.deb
-Size: 13763976
-MD5sum: 0b6438e491fdb685b68c84771d2de54a
-SHA1: 562f98b34f056186dfc09b291b3c7228c19a214c
-SHA256: ba1097e8cda0c006e32505d05da4bf5497343bfb10b153763792484500b7aace
-SHA512: 76e7dccd2a5aba55b7b07cb75f184f5f2a26430f4fda80e22865559c00981e5d0b860ea793232dacac19dff738ccb814aacf6a125b6a9e5c2fa8fc8787bae052
+Filename: https://github.com/peazip/PeaZip/releases/download/11.1.0/peazip_11.1.0.LINUX.GTK2-1_amd64.deb
+Size: 14355170
+MD5sum: d0ab9c064244b7768ebb7d0d93739c38
+SHA1: 549979cd4823839e7f8553349ed7759610d01562
+SHA256: 7b533e571d7149f4a896d603ac4dcffcd4dcb5c8e9bd36653b6a18aa8eea094c
+SHA512: c3b7103990d880884ca397e2059b5cc5d002da908c0aa987093a2d3be77840a2cfae4852b25f879ef50fa69e060940ea0ce0ff26214fa73d13675e5998573eb8
 Homepage: https://peazip.github.io
 Description: PeaZip free file archiver utility, GTK2 build
  PeaZip is an Open Source (LGPLv3) cross-platform archive manager utility, 
