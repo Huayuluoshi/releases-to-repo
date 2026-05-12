@@ -73,9 +73,9 @@
     "lazygit": "v0.61.1",
     "msedit": "v2.0.0",
     "neovide": "0.16.2",
-    "nexttrace": "v1.6.4",
+    "nexttrace": "v1.6.5",
     "superfile": "v1.5.0",
-    "nexttrace-tiny": "v1.6.4",
+    "nexttrace-tiny": "v1.6.5",
     "ghost-downloader": "v3.8.3",
     "frpc-desktop": "v1.2.5"
 }

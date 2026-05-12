@@ -1,15 +1,15 @@
 Package: nexttrace-tiny
 Architecture: amd64
-Version: 1.6.4+1
+Version: 1.6.5+1
 Priority: optional
 Section: net
 Maintainer: wcbing <i@wcbing.top>
-Filename: https://github.com/nxtrace/nexttrace-debs/releases/download/v1.6.4/nexttrace-tiny_1.6.4+1_amd64.deb
-Size: 4307896
-MD5sum: 71d6df8834dd14f4ba3212aa442c13d4
-SHA1: 9e3c4130b43f3f7a4454d4f08d647f0d1aa0d57a
-SHA256: 1a003172ad1e69986e0fb5b0ceeebfe7f16f8629c46fd7b01d80b7018b200bd5
-SHA512: c2bc8480747fae054362fdb8df928f5cae2e85e1c6ff2f7af5aee22da811b4fb82921ac853e3f042fe0368e32e7de10a43e218ad483576fbc8b28c044b71919f
+Filename: https://github.com/nxtrace/nexttrace-debs/releases/download/v1.6.5/nexttrace-tiny_1.6.5+1_amd64.deb
+Size: 4314216
+MD5sum: 763e9f3d3c10bda5b9fd791e7e2f8cfa
+SHA1: 370088cdf7c43c7a4cbe3a2ba07411af0f36bec5
+SHA256: 9927b498f690a80a8b87da3bb16ab683048fee9bd7d0f733936b5f840ee3c78d
+SHA512: 08667859bf318bed94684b536a511d8c3969c121fb6375665f4e39f990fbaaf916ff4b73ccf211e439c9b942f9fa3c9b5c6581279a8a29db8e17a726860c1317
 Homepage: https://www.nxtrace.org
 Description: NextTrace tiny CLI with traceroute only
 
