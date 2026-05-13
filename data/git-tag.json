@@ -1,5 +1,5 @@
 {
-    "balena-etcher": "v2.1.5",
+    "balena-etcher": "v2.1.6",
     "bat": "v0.26.1",
     "bongo-cat": "v1.1.0",
     "bottom": "0.12.3",
@@ -77,5 +77,6 @@
     "superfile": "v1.5.0",
     "nexttrace-tiny": "v1.6.5",
     "ghost-downloader": "v3.8.3",
-    "frpc-desktop": "v1.2.5"
+    "frpc-desktop": "v1.2.5",
+    "motrix-next": "v3.8.9"
 }

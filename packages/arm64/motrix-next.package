@@ -1,0 +1,16 @@
+Package: motrix-next
+Architecture: arm64
+Version: 3.8.9
+Priority: optional
+Maintainer: AnInsomniacy
+Installed-Size: 59092
+Depends: libayatana-appindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: https://github.com/AnInsomniacy/motrix-next/releases/download/v3.8.9/MotrixNext_3.8.9_arm64.deb
+Size: 26685924
+MD5sum: a14a2a0f625bdaec701343917bd9ad79
+SHA1: ac09166b2844d9bb50a343019bf6db8174aceb2a
+SHA256: 021d72a68c0d296fc71dd8f0864c6698204d8d7bbb8a7ae795942a0ae270be0d
+SHA512: 97a741077a591dc6a0a08edd02634d89bd714bc36a08be92e776e54dbddb838974dedd2afeef491e00d25cd1f7ee1bfb3661ab27f0f0189558327bbebfc6b08d
+Description: A full-featured download manager
+ (none)
+
