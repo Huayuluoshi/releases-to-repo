@@ -64,6 +64,7 @@ sudo apt update
 | [Lazygit](https://github.com/wcbing-apt-repo/lazygit-debs)* | lazygit | ✅ | ✅ |
 | [LocalSend](https://github.com/localsend/localsend) | localsend | ✅ | ✅ |
 | [mihomo](https://github.com/MetaCubeX/mihomo) | mihomo | ✅ | ✅ |
+| [Motrix Next](https://github.com/AnInsomniacy/motrix-next) | motrix-next | ✅ | ✅ |
 | [MQTTX](https://github.com/emqx/MQTTX) | mqttx | ✅ | ✅ |
 | [Microsoft Edit](https://github.com/wcbing-apt-repo/msedit-debs)* | msedit | ✅ | ✅ |
 | [MusicFree](https://github.com/maotoumao/MusicFreeDesktop) | musicfree | ✅ | |

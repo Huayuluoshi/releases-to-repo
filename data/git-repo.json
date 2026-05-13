@@ -284,6 +284,13 @@
             "arm64": "mihomo-linux-arm64-{releases_tag}.deb"
         }
     },
+    "motrix-next": {
+        "repo": "AnInsomniacy/motrix-next",
+        "file_list": {
+            "amd64": "MotrixNext_{version}_amd64.deb",
+            "arm64": "MotrixNext_{version}_arm64.deb"
+        }
+    },
     "mqttx": {
         "repo": "emqx/MQTTX",
         "file_list": {
