@@ -1,18 +1,12 @@
 Package: fooyin
 Architecture: amd64
-Version: 0.10.6
+Version: 0.10.7
 Priority: optional
 Section: sound
 Maintainer: Luke Taylor <luket@pm.me>
-Installed-Size: 23379
+Installed-Size: 23843
 Depends: libc6,
         libstdc++6,
-        libqt6core6 (>= 6.4.0),
-        libqt6gui6 (>= 6.4.0),
-        libqt6widgets6 (>= 6.4.0),
-        libqt6network6 (>= 6.4.0),
-        libqt6concurrent6 (>= 6.4.0),
-        libqt6sql6 (>= 6.4.0),
         libqt6sql6-sqlite (>= 6.4.0),
         libqt6svg6 (>= 6.4.0),
         qt6-image-formats-plugins (>= 6.4.0),
@@ -28,15 +22,13 @@ Depends: libc6,
         libsndfile1,
         libebur128-1,
         libsoundtouch1,
-        libsoxr0, libicu76, libtag2,
-            libqcoro6core0t64,
-            libqcoro6network0t64
-Filename: https://github.com/fooyin/fooyin/releases/download/v0.10.6/fooyin_0.10.6-trixie_amd64.deb
-Size: 7857558
-MD5sum: a38dbd91102956984d588dc2fe64e4a8
-SHA1: 24ab37b782abe82af1826fcf91e6c47a2201894a
-SHA256: 888ae85626567e88eff24a34b76c8af222bdc45ca6cc291305dd5a845a5c5b27
-SHA512: 3bec8a7197cb7a4192e388a42697ee1348add69923adb3bd5bb8dfd16bf3cee3e96bf26777334e412ab9a4d900ab7c8cf544e6a37bf30d09fe9fdd9d8679b1bc
+        libsoxr0, libicu76, libtag2, libqt6core6t64 (>= 6.4.0), libqt6gui6 (>= 6.4.0), libqt6widgets6 (>= 6.4.0), libqt6network6 (>= 6.4.0), libqt6concurrent6 (>= 6.4.0), libqt6sql6 (>= 6.4.0), libqcoro6core0t64, libqcoro6network0t64
+Filename: https://github.com/fooyin/fooyin/releases/download/v0.10.7/fooyin_0.10.7-trixie_amd64.deb
+Size: 8012574
+MD5sum: 6cd2128d0818f2116806868e13f67fb5
+SHA1: 820aae68330dcea482c343079a86f81a94d1b1ca
+SHA256: 7104dc49252aa201c9309d697a141a1bb042e2afede34ededcbe555f52d592ce
+SHA512: c4982635e489698c55b4093e5a2309a43295ced43c08058a0b36f82f29711140fe947baf7d48ff04123202ba6840135cdaa5e9fc414e2694620ad068a40e5ff3
 Homepage: https://www.fooyin.org
 Description: A customisable music player
 
