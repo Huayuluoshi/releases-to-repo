@@ -1,19 +1,19 @@
 Package: tabby-terminal
 Architecture: arm64
-Version: 1.0.233
+Version: 1.0.234
 Priority: optional
 Section: default
 Maintainer: Tabby Developers <e@ajenti.org>
-Installed-Size: 421917
+Installed-Size: 421948
 Depends: gnome-keyring, libnotify4, libsecret-1-0, libxtst6, libnss3
 Recommends: libappindicator3-1
 Replaces: terminus-terminal
-Filename: https://github.com/Eugeny/tabby/releases/download/v1.0.233/tabby-1.0.233-linux-arm64.deb
-Size: 116523080
-MD5sum: e0f90874b52accd023389443f78ccd92
-SHA1: 7960c6001ebea0f3146943d51b27227929832932
-SHA256: a4e32f0582e94afa07aebc2974fc0f9fffd781b5dcc9c82e248b1f12cd48ec30
-SHA512: 4f91963f18d947d783956fc15bf690a0df29f1fefbc34c06142f3325e6ada2b6dce2fd76ad7cd620f288ca62c2c2226095f21a52421a51aea40360f1e0c7df72
+Filename: https://github.com/Eugeny/tabby/releases/download/v1.0.234/tabby-1.0.234-linux-arm64.deb
+Size: 116525676
+MD5sum: 786951bbe257e698addf1d751def46a5
+SHA1: b22f0dcc93ca0596840d891e6c085c70f4e2af82
+SHA256: c17ef293cb0a0bb3305792e7c0ccfa91ba319ac4ca44ce72ce5e1ba86bbd1b68
+SHA512: 9f00e69c89693e8afd783db63313c09fc48aa727d892fd1980e4a2404106712c027174c78f8a73fec8918bf1e6e8e515fe921e39b9bbf4c1d61cab6b2fdeffc1
 Homepage: https://github.com/Eugeny/tabby#readme
 Description: 
   A terminal for a modern age
