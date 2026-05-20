@@ -1,18 +1,18 @@
 Package: koodo-reader
 Architecture: arm64
-Version: 2.3.4
+Version: 2.3.5
 Priority: optional
 Section: default
 Maintainer: App by Troye <feedback@koodoreader.com>
-Installed-Size: 391796
+Installed-Size: 394752
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: https://github.com/koodo-reader/koodo-reader/releases/download/v2.3.4/Koodo-Reader-2.3.4-arm64.deb
-Size: 101458788
-MD5sum: 33c830467622a5bae46d0aaed7b6f122
-SHA1: 63a4f4d3495b6fe6ac9d434c815e560f28e18a9d
-SHA256: 7022f55d118195ac7bb7f91d70b4ce5e8c21ef0a32f53ce23860ae6af58e75d9
-SHA512: 8799fec9b02584295f7e5b2be6c0f8d7606677238702cb7451e16f32bc16982f24a31fb49a06abda6dfc7f15a14f3233f5a4af5f560cc293c109e0f5ae0dc1ca
+Filename: https://github.com/koodo-reader/koodo-reader/releases/download/v2.3.5/Koodo-Reader-2.3.5-arm64.deb
+Size: 101681508
+MD5sum: 9bf4167f2e232176f1cc94c437351c24
+SHA1: 3cb6de122f8cc3876f40830205e5922fc7e282f8
+SHA256: 265bf9cc554c1f33a6d2acd3b80d5131faf772e6e7cdf2fcedf351ce7db02bed
+SHA512: 4642c20e77c0d16d96cb5d826347192b39f49c78fcfe930477f8d465e27ac1ba106839d86c410a8f575500d7bac681436b9d07926a276566dd99c289d8913ae3
 Homepage: https://./
 Description: 
   Koodo Reader is a cross-platform ebook reader
