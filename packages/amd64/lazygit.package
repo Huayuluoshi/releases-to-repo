@@ -1,17 +1,17 @@
 Package: lazygit
 Architecture: amd64
-Version: 0.61.1+1
+Version: 0.62.0+1
 Priority: optional
 Section: utils
 Maintainer: wcbing <i@wcbing.top>
-Installed-Size: 17880
+Installed-Size: 18648
 Depends: git
-Filename: https://github.com/wcbing-apt-repo/lazygit-debs/releases/latest/download/./lazygit_0.61.1+1_amd64.deb
-Size: 4803760
-MD5sum: ba786c846e138a7221622bc1b5221f12
-SHA1: e77cae4964776e89f2d97824c85f62a1a06a9161
-SHA256: b271e2633459c98aa3501aca1c827d0e5e61e4f719a9aaf662c339cb2985020a
-SHA512: d6e487e832957b95564f36301ab7c1f1699eb42d13cbacbb150bef694bd9515e80a3c1a5603e67f14a6ce101d23ae74a4ab8c6c0a2f8e5c092b143d3d3f96b99
+Filename: https://github.com/wcbing-apt-repo/lazygit-debs/releases/download/v0.62.0/lazygit_0.62.0+1_amd64.deb
+Size: 4985884
+MD5sum: 987ada4e64b3443a338abe4f0e62d6f6
+SHA1: 9b8e776e2aea2c2edc67e342ecd4335e69528e66
+SHA256: 28d57e27461aa247e459048e251aed49671a2562a75dd2f4a45e1a29feab3fba
+SHA512: 708b0ba2d13900c7212b11040be7a26be10765790aa0d424623ef055d5b189cc5e4f0ae74274e848644a300069f3aeee169d30ad6dedaec40d11b47b08c2b7ea
 Homepage: https://github.com/jesseduffield/lazygit
 Description: A simple terminal UI for git commands
 
