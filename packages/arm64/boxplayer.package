@@ -1,0 +1,21 @@
+Package: boxplayer
+Architecture: arm64
+Version: 4.0.13
+Priority: optional
+Section: default
+Maintainer: gaozhangmin <gaozhangmin@gmail.com>
+Installed-Size: 256806
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: https://github.com/gaozhangmin/boxplayer/releases/download/v4.0.13/boxplayer-4.0.13-linux-arm64.deb
+Size: 68356392
+MD5sum: aa3d1ed92cac12661fd1c69b69815ecc
+SHA1: b4aa51594a13f417847312f68071ed5abd8156e7
+SHA256: 24d2d9a05c4fca7b5c74daa2a1f3581aaea1d9d03d145963875b9536eb354ee4
+SHA512: 3431856d9b46d5e6587d9b4dca3433bd4f341d8aef992464784e56608f348374003063aa95ea2ea65196e7d6d3c9cd5a2c402038bae9fb84acbbf8e4aa26c19e
+Homepage: https://github.com/gaozhangmin/boxplayer
+Description: 
+  BoxPlayer
+License: GPL-3.0
+Vendor: gaozhangmin <gaozhangmin@gmail.com>
+
