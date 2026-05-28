@@ -27,6 +27,7 @@ sudo apt update
 | [bat](https://github.com/sharkdp/bat) | bat | ✅ | ✅ |
 | [BongoCat](https://github.com/ayangweb/BongoCat) | bongo-cat | ✅ | ✅ |
 | [bottom (btm)](https://github.com/ClementTsang/bottom) | bottom | ✅ | ✅ |
+| [小白羊 BoxPlayer](https://github.com/gaozhangmin/boxplayer) | boxplayer | ✅ | ✅ |
 | [Caddy](https://github.com/caddyserver/caddy) | caddy | ✅ | ✅ |
 | [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | cherrystudio | ✅ | ✅ |
 | [chezmoi](https://github.com/twpayne/chezmoi) | chezmoi | ✅ | ✅ |

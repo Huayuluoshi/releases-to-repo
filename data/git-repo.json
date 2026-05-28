@@ -26,6 +26,13 @@
             "arm64": "bottom_{version}-1_arm64.deb"
         }
     },
+    "boxplayer": {
+        "repo": "gaozhangmin/boxplayer",
+        "file_list": {
+            "amd64": "boxplayer-{version}-linux-amd64.deb",
+            "arm64": "boxplayer-{version}-linux-arm64.deb"
+        }
+    },
     "caddy": {
         "repo": "caddyserver/caddy",
         "file_list": {
