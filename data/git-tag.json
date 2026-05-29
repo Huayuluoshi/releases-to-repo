@@ -73,10 +73,10 @@
     "lazygit": "v0.62.1",
     "msedit": "v2.0.0",
     "neovide": "0.16.2",
-    "nexttrace": "v1.6.5",
+    "nexttrace": "v1.7.0",
     "superfile": "v1.5.0",
-    "nexttrace-tiny": "v1.6.5",
-    "ghost-downloader": "v3.10",
+    "nexttrace-tiny": "v1.7.0",
+    "ghost-downloader": "v3.10.1",
     "frpc-desktop": "v1.2.6",
     "motrix-next": "v3.9.1",
     "boxplayer": "v4.0.13"
