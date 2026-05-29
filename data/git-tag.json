@@ -9,7 +9,7 @@
     "clash-verge": "v2.5.1",
     "cloudflared": "2026.5.2",
     "cn.classisland.app": "2.0.0.2",
-    "code-server": "v4.121.0",
+    "code-server": "v4.122.0",
     "codium": "1.121.03429",
     "cryptomator": "1.19.2",
     "dbeaver-ce": "26.0.5",
@@ -76,7 +76,7 @@
     "nexttrace": "v1.6.5",
     "superfile": "v1.5.0",
     "nexttrace-tiny": "v1.6.5",
-    "ghost-downloader": "v3.9.1",
+    "ghost-downloader": "v3.10",
     "frpc-desktop": "v1.2.6",
     "motrix-next": "v3.9.1",
     "boxplayer": "v4.0.13"
