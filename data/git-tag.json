@@ -15,7 +15,7 @@
     "dbeaver-ce": "26.1.0",
     "draw.io": "v30.0.4",
     "du-dust": "v1.2.4",
-    "fastfetch": "2.63.1",
+    "fastfetch": "2.64.0",
     "flameshot": "v13.3.0",
     "flclash": "v0.8.93",
     "foliate": "3.3.0",
@@ -76,8 +76,8 @@
     "nexttrace": "v1.7.0",
     "superfile": "v1.5.0",
     "nexttrace-tiny": "v1.7.0",
-    "ghost-downloader": "v3.10.2.1",
+    "ghost-downloader": "v3.10.3",
     "frpc-desktop": "v1.2.6",
-    "motrix-next": "v3.9.2",
+    "motrix-next": "v3.9.3",
     "boxplayer": "v4.0.13"
 }
