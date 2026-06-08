@@ -92,6 +92,7 @@ sudo apt update
 | [TinyGo](https://github.com/tinygo-org/tinygo) | tinygo | ✅ | ✅ |
 | [Tiny RDM](https://github.com/tiny-craft/tiny-rdm) | tinyrdm | ✅ | |
 | [Trippy](https://github.com/fujiapple852/trippy) | trippy | ✅ | |
+| [trzsz-ssh (tssh)](https://github.com/trzsz/trzsz-ssh) | tssh | ✅ | ✅ |
 | [Ulauncher](https://github.com/Ulauncher/Ulauncher) | ulauncher | ✅ | ✅ |
 | [柚坛工具箱 NT](https://github.com/Uotan-Dev/UotanToolboxNT) | uotantoolbox | ✅ | ✅ |
 | [venera](https://github.com/venera-app/venera) | venera | ✅ | ✅ |

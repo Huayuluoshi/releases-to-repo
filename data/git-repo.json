@@ -476,6 +476,13 @@
             "amd64": "trippy_x86_64-unknown-linux-musl_0.13.0_amd64.deb"
         }
     },
+    "tssh": {
+        "repo": "trzsz/trzsz-ssh",
+        "file_list": {
+            "amd64": "tssh_{version}_linux_x86_64.deb",
+            "arm64": "tssh_{version}_linux_aarch64.deb"
+        }
+    },
     "ulauncher": {
         "repo": "Ulauncher/Ulauncher",
         "file_list": {
