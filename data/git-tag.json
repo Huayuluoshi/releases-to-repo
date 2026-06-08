@@ -24,7 +24,7 @@
     "grpcurl": "v1.9.3",
     "hiddify": "v4.1.1",
     "hoppscotch": "v26.5.0-0",
-    "hugo": "v0.162.1",
+    "hugo": "v0.163.0",
     "joplin": "v3.6.14",
     "koodo-reader": "v2.3.5",
     "localsend": "v1.17.0",
@@ -79,5 +79,6 @@
     "ghost-downloader": "v3.10.4",
     "frpc-desktop": "v1.2.6",
     "motrix-next": "v3.9.4",
-    "boxplayer": "v4.0.13"
+    "boxplayer": "v4.0.13",
+    "tssh": "v0.1.25"
 }

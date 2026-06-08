@@ -1,0 +1,15 @@
+Package: tssh
+Architecture: amd64
+Version: 0.1.25
+Priority: optional
+Maintainer: Lonny Wong <lonnywong@qq.com>
+Installed-Size: 20612
+Filename: https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.25/tssh_0.1.25_linux_x86_64.deb
+Size: 7789616
+MD5sum: 54983a63c33fdc87408afc09a78ad2eb
+SHA1: be517733e76bfafe35573dd2f1fed5a1f0b2ae6e
+SHA256: b6c0c254d67fd579e4df60cafee386f353ae402c71b5225db57c91a6ab0e9b65
+SHA512: 10d68f6b94443fa79979343f3df86bcc4eabd7617d504690e9ef37d9b02cbc5f22887bd1b5919faf8813646a4bca2d9b6921a8c3a6f63bb176a6dd15220492c1
+Homepage: https://trzsz.github.io/
+Description: tssh is an alternative ssh client with additional features to meet your needs.
+
