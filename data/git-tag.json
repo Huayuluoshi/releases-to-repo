@@ -31,7 +31,7 @@
     "mihomo": "v1.19.27",
     "mqttx": "v1.13.0",
     "musicfree": "v0.0.8",
-    "neovim": "v0.12.2",
+    "neovim": "v0.12.3",
     "obsidian": "v1.12.7",
     "onlyoffice-desktopeditors": "v9.4.0",
     "pandoc": "3.10",
@@ -39,7 +39,7 @@
     "peazip": "11.1.0",
     "rclone": "v1.74.3",
     "rustdesk": "1.4.7",
-    "simplenote": "v2.26.0",
+    "simplenote": "v2.26.1",
     "siyuan": "v3.6.5",
     "spark-store": "5.0.0",
     "sparkle": "1.26.5",
@@ -80,5 +80,6 @@
     "frpc-desktop": "v1.2.6",
     "motrix-next": "v3.9.4",
     "boxplayer": "v4.0.13",
-    "tssh": "v0.1.25"
+    "tssh": "v0.1.25",
+    "marktext": "v0.19.1"
 }
