@@ -64,6 +64,7 @@ sudo apt update
 | [Lazydocker](https://github.com/wcbing-apt-repo/lazydocker-debs)* | lazydocker | ✅ | ✅ |
 | [Lazygit](https://github.com/wcbing-apt-repo/lazygit-debs)* | lazygit | ✅ | ✅ |
 | [LocalSend](https://github.com/localsend/localsend) | localsend | ✅ | ✅ |
+| [MarkText](https://github.com/marktext/marktext) | marktext | ✅ | |
 | [mihomo](https://github.com/MetaCubeX/mihomo) | mihomo | ✅ | ✅ |
 | [Motrix Next](https://github.com/AnInsomniacy/motrix-next) | motrix-next | ✅ | ✅ |
 | [MQTTX](https://github.com/emqx/MQTTX) | mqttx | ✅ | ✅ |
@@ -113,7 +114,6 @@ sudo apt update
 | 软件名 | 包名 | amd64 | arm64 |
 | ----- | --- | ----- | ----- |
 | [Flameshot](https://github.com/flameshot-org/flameshot) | flameshot | | ✅ |
-| [MarkText](https://github.com/marktext/marktext) | marktext | ✅ | |
 | [Motrix](https://github.com/agalwood/Motrix) | motrix | ✅ | ✅ |
 | [SunnyCapturer](https://github.com/XMuli/SunnyCapturer) | sunnycapturer | ✅ | |
 | [Yolx](https://github.com/uiYzzi/Yolx) | yolx | ✅ | |

@@ -284,6 +284,12 @@
             "arm64": "LocalSend-{version}-linux-arm-64.deb"
         }
     },
+    "marktext": {
+        "repo": "marktext/marktext",
+        "file_list": {
+            "amd64": "marktext-linux-{version}.deb"
+        }
+    },
     "mihomo": {
         "repo": "MetaCubeX/mihomo",
         "file_list": {
