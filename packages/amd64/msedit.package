@@ -6,11 +6,11 @@ Section: editors
 Maintainer: wcbing <i@wcbing.top>
 Installed-Size: 356
 Filename: https://github.com/wcbing-apt-repo/msedit-debs/releases/download/v2.0.0/msedit_2.0.0+1_amd64.deb
-Size: 127568
-MD5sum: 94eb53ccc4db45d2d68506764c40d0ae
-SHA1: f9dbc74ad54adca36ef5b61effbfd9bd2294107c
-SHA256: 1af51ce43068443bbc47a602ea07dd646c9f6afadf8da8a27e2129522a26405f
-SHA512: d0ca5e85b0322e43965519f8a639d5125aac7b26e2b8c2f19d8c4d0d8136debab4626b88ee830691fc14f3947b3002a39c03be41bd0f43c01f392e9d11c0d502
+Size: 127696
+MD5sum: 58759d8195c2d1330dd11c10c5bd0251
+SHA1: 43917f62756abff00f0a6b23074227738bc814a2
+SHA256: cdabc8044b90a62daa399432e8bfe937caf852b91edcd7f3cf120e705a7aca64
+SHA512: 36b16334c8cff36b5767520cde434723384d05c5d14014a86a9aa66923f352d88e63c624d8b37a892448387ebc4e4a50fc8d9e06d20eb7a1a4b02c4329e95afb
 Homepage: https://github.com/microsoft/edit
 Description: A simple editor for simple needs.
 
