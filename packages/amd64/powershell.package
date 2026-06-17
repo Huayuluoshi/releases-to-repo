@@ -1,17 +1,17 @@
 Package: powershell
 Architecture: amd64
-Version: 7.6.2-1.deb
+Version: 7.6.3-1.deb
 Priority: optional
 Section: shells
 Maintainer: PowerShell Team <PowerShellTeam@hotmail.com>
-Installed-Size: 193185
+Installed-Size: 193210
 Depends: libc6, libgcc1, libgssapi-krb5-2, libstdc++6, zlib1g, libicu106|libicu105|libicu104|libicu103|libicu102|libicu101|libicu100|libicu99|libicu98|libicu97|libicu96|libicu95|libicu94|libicu93|libicu92|libicu91|libicu90|libicu89|libicu88|libicu87|libicu86|libicu85|libicu84|libicu83|libicu82|libicu81|libicu80|libicu79|libicu78|libicu77|libicu76|libicu75|libicu74|libicu73|libicu72|libicu71|libicu70|libicu69|libicu68|libicu67|libicu66|libicu65|libicu64|libicu63|libicu62|libicu61|libicu60, libssl3|libssl1.1|libssl1.0.2|libssl1.0.0
-Filename: https://github.com/PowerShell/PowerShell/releases/download/v7.6.2/powershell_7.6.2-1.deb_amd64.deb
-Size: 56344578
-MD5sum: 046203015018064868ddd0b45fd39395
-SHA1: 8d72aadefd816f2085b64b75c8eaf5e625fb9c88
-SHA256: 37ff89d2c50522cec62abebc77a7afde7b17c425b8a6475a44da9748df6a3b6f
-SHA512: 5328d7b26fcafd2502f275a53c992938d20036bb00f0e411392f71e43f8471d7c2232f2ae4f356a07507fcd3d88c77c5cf0e587234d282d7ff82e3536a090fbc
+Filename: https://github.com/PowerShell/PowerShell/releases/download/v7.6.3/powershell_7.6.3-1.deb_amd64.deb
+Size: 56306470
+MD5sum: 9d5eae707c757c86f0da3e87bab8013e
+SHA1: 18982d784a969d224a93c3f2f32444f4e0db6fcd
+SHA256: f03200f25c511583c648aecb8d8ce75789db2cf668b39803ee639476d716a3dd
+SHA512: fee9ed77e9e7b0a054982c8b7c9afdcec6bd9d7f621700fa463a6cfbbc94272519ceb893488961bfeb1661a061250b94e22ea909346baa6f53e52a6ab61b7e82
 Homepage: https://microsoft.com/powershell
 Description: PowerShell is an automation and configuration management platform.
  It consists of a cross-platform command-line shell and associated scripting language.
