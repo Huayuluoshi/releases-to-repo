@@ -54,6 +54,12 @@
             "arm64": "chezmoi_{version}_linux_arm64.deb"
         }
     },
+    "chsrc": {
+        "repo": "RubyMetric/chsrc",
+        "file_list": {
+            "amd64": "chsrc_{version}-1_amd64.deb"
+        }
+    },
     "clash-verge": {
         "repo": "clash-verge-rev/clash-verge-rev",
         "file_list": {

@@ -31,6 +31,7 @@ sudo apt update
 | [Caddy](https://github.com/caddyserver/caddy) | caddy | ✅ | ✅ |
 | [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | cherrystudio | ✅ | ✅ |
 | [chezmoi](https://github.com/twpayne/chezmoi) | chezmoi | ✅ | ✅ |
+| [chsrc](https://github.com/RubyMetric/chsrc) | chsrc | ✅ | |
 | [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev) | clash-verge | ✅ | ✅ |
 | [Cloudflare Tunnel](https://github.com/cloudflare/cloudflared) | cloudflared | ✅ | ✅ |
 | [ClassIsland](https://github.com/ClassIsland/ClassIsland) | cn.classisland.app | ✅ | ✅ |
