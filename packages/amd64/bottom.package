@@ -1,18 +1,18 @@
 Package: bottom
 Architecture: amd64
-Version: 0.12.3-1
+Version: 0.13.0-1
 Priority: optional
 Section: utility
 Maintainer: Clement Tsang <cjhtsang@uwaterloo.ca>
-Installed-Size: 4920
-Depends: libc6 (>= 2.34)
+Installed-Size: 5027
+Depends: libc6 (>= 2.39)
 Conflicts: btm
-Filename: https://github.com/ClementTsang/bottom/releases/download/0.12.3/bottom_0.12.3-1_amd64.deb
-Size: 1456900
-MD5sum: 83da5c669b6f0289b4f62ce87602d2cf
-SHA1: bf0ffb7b55b3b218b18c916d2244366811a61198
-SHA256: 75dd4aa31eeb61087925c434627191062d9811b5da91c75ed28b83137a42ff27
-SHA512: 1b7bb501a7ab4a62433453e193f2ce0058fd863c87e6f7e65ae921eba11519cd3abd048dd96abd50f5b44768825ab807471a5ee49e1659b41862657a1cda9e14
+Filename: https://github.com/ClementTsang/bottom/releases/download/0.13.0/bottom_0.13.0-1_amd64.deb
+Size: 1500004
+MD5sum: 503effe0fbcb3cbda2c365204442a6f2
+SHA1: be37cf7cd10488e483531db501721b31907444c9
+SHA256: d7ca977424c04a9d3009df297ab920ef1defd2cb67062ec3755f706cfddf0d68
+SHA512: e5710db11347e0e58d09625554e737eb4f7664f25c78d50d5cdb99968a9b02273655dc887ee06ed564e49e3129bcbcb47500533cc9fe1270039c363da1379f0a
 Homepage: https://bottom.pages.dev/stable
 Description: A customizable cross-platform graphical process/system monitor for the
  terminal. Supports Linux, macOS, and Windows.
