@@ -1,18 +1,18 @@
 Package: xmcl
 Architecture: arm64
-Version: 0.57.0-1345
+Version: 0.58.0-1349
 Priority: optional
 Section: default
 Maintainer: ci010 <cijhn@hotmail.com>
-Installed-Size: 299055
+Installed-Size: 299142
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: https://github.com/Voxelum/x-minecraft-launcher/releases/download/v0.57.0/xmcl-0.57.0-arm64.deb
-Size: 74540312
-MD5sum: 25e02d281abcb6f1299d8b7efdd7c3bb
-SHA1: 8b39b9e1c8cf042c3cb16d4cea0e33994c8631fb
-SHA256: 70cac6fb9eeba76badbb119b0afa438b7e229e85a32d4ece820c843dd7b37069
-SHA512: 69a1821e8893e6d0fa7f1eb189089fa7d2f9261c4f6f1d7aca6705a763ee2555ab3a5bc4064ffb5bf899c46cb4e13f12b975e6a7647fd7e492837fc46eb935f9
+Filename: https://github.com/Voxelum/x-minecraft-launcher/releases/download/v0.58.0/xmcl-0.58.0-arm64.deb
+Size: 74554462
+MD5sum: d0d0127bddc458a5be9f2f003a7be7b1
+SHA1: 44e359d52234f50666b2de571325b73055fa420a
+SHA256: a9d2c9fcfae0bd7d62441599f99acbb774a79f788af0579974ec188546dfac28
+SHA512: 786302e4338312ae7fad2813f8e3839a1d508fa5684af674bd367989654e05945ababa98479eb0e60e92f663f66be7930efec80b6872bc623f2bc27ac5a8708f
 Homepage: https://github.com/voxelum/x-minecraft-launcher#readme
 Description: 
   X Minecraft Launcher - A modern Minecraft launcher
