@@ -1,34 +1,34 @@
 Package: fooyin
 Architecture: amd64
-Version: 0.10.8
+Version: 0.11.1
 Priority: optional
 Section: sound
 Maintainer: Luke Taylor <luket@pm.me>
-Installed-Size: 24234
+Installed-Size: 28704
 Depends: libc6,
-        libstdc++6,
-        libqt6sql6-sqlite (>= 6.4.0),
-        libqt6svg6 (>= 6.4.0),
-        qt6-image-formats-plugins (>= 6.4.0),
-        qt6-qpa-plugins,
-        zlib1g,
-        libasound2,
-        ffmpeg (>= 7:4.4),
-        pipewire,
-        libsdl2-2.0-0,
-        libgme0,
-        libopenmpt0,
-        libarchive13,
-        libsndfile1,
-        libebur128-1,
-        libsoundtouch1,
-        libsoxr0, libicu76, libtag2, libqt6core6t64 (>= 6.4.0), libqt6gui6 (>= 6.4.0), libqt6widgets6 (>= 6.4.0), libqt6network6 (>= 6.4.0), libqt6concurrent6 (>= 6.4.0), libqt6sql6 (>= 6.4.0), libqcoro6core0t64, libqcoro6network0t64
-Filename: https://github.com/fooyin/fooyin/releases/download/v0.10.8/fooyin_0.10.8-trixie_amd64.deb
-Size: 8146240
-MD5sum: 08e7d7e7d4e60e1c231df841da666b71
-SHA1: 8f0e1a2c0625d2dd6e302cf4a08b47ee30a812ca
-SHA256: 02d418e16581f5cfd11a243f9ab21f83d2f334892dfcf415a7b555a41f6f7c49
-SHA512: 5a43f7abead08684dbb13672b42830bd237ebf8360253faedeca40a72976fb18155a10fd89645878b9f94595057a73c9ed53e3cd3203125dccac92ad6d2adb19
+    libstdc++6,
+    libqt6sql6-sqlite (>= 6.4.0),
+    libqt6svg6 (>= 6.4.0),
+    qt6-image-formats-plugins (>= 6.4.0),
+    qt6-qpa-plugins,
+    zlib1g,
+    libasound2,
+    ffmpeg (>= 7:4.4),
+    pipewire,
+    libsdl2-2.0-0,
+    libgme0,
+    libopenmpt0,
+    libarchive13,
+    libsndfile1,
+    libebur128-1,
+    libsoundtouch1,
+    libsoxr0, libicu76, libtag2, libqt6core6t64 (>= 6.4.0), libqt6gui6 (>= 6.4.0), libqt6widgets6 (>= 6.4.0), libqt6network6 (>= 6.4.0), libqt6concurrent6 (>= 6.4.0), libqt6sql6 (>= 6.4.0), libqcoro6core0t64, libqcoro6network0t64
+Filename: https://github.com/fooyin/fooyin/releases/download/v0.11.1/fooyin_0.11.1-trixie_amd64.deb
+Size: 9576400
+MD5sum: e9301cf86f84ec9198d030130252b2f3
+SHA1: d8887664eb21513966e4126477ec183a210ba3e9
+SHA256: edd0b88853671b3b59598ecebf8ea1fdaebb8ec688aed2937924916959efaa32
+SHA512: 1d3bbf563a09e9f8e836b3d86cde26dc9f373bf73bdc0055509bed3fea53fa92b00205a7f835232f436844a21f3bc02f5dfc2f54c08c782d952b7aed1f8bef5a
 Homepage: https://www.fooyin.org
 Description: A customisable music player
 
