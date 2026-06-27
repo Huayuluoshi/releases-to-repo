@@ -1,19 +1,19 @@
 Package: cn.classisland.app
 Architecture: arm64
-Version: 2.1.0.0
+Version: 2.1.0.1
 Multi-Arch: foreign
 Priority: optional
 Section: utils
 Maintainer: ClassIsland
-Depends: libx11-6, libice6, libsm6, libfontconfig1, ca-certificates, tzdata, libc6, libgcc1 | libgcc-s1, libgssapi-krb5-2, libstdc++6, zlib1g, libssl1.0.0 | libssl1.0.2 | libssl1.1 | libssl3, libicu | libicu77 | libicu76 | libicu74 | libicu72 | libicu71 | libicu70 | libicu69 | libicu68 | libicu67 | libicu66 | libicu65 | libicu63 | libicu60 | libicu57 | libicu55 | libicu52
-Filename: https://github.com/ClassIsland/ClassIsland/releases/download/2.1.0.0/ClassIsland_app_linux_arm64_selfContained_deb.deb
-Size: 66000600
-MD5sum: 1a5cf238992497dcea8e8ada8d55c0a9
-SHA1: e2bf1d1afc67ed4e5b7f6abd796dcc6117e39205
-SHA256: 38d216f9340c4b2d2043dd7c4b2384f0611aa44bd19009bceea89268f7af20eb
-SHA512: e247e364e8fa277e3eb85ca91ac8f582b038b44259fdeef8010621279f28f2264da279d460c88f5386fd87a840cc798fcfdb8d4721a1a13d50cb753d1896735d
+Depends: libx11-6, libice6, libsm6, libfontconfig1, ca-certificates, tzdata, libc6, libgcc1 | libgcc-s1, libgssapi-krb5-2, libstdc++6, zlib1g, libssl1.0.0 | libssl1.0.2 | libssl1.1 | libssl3, libicu | libicu78 | libicu77 | libicu76 | libicu74 | libicu72 | libicu71 | libicu70 | libicu69 | libicu68 | libicu67 | libicu66 | libicu65 | libicu63 | libicu60 | libicu57 | libicu55 | libicu52
+Filename: https://github.com/ClassIsland/ClassIsland/releases/download/2.1.0.1/ClassIsland_app_linux_arm64_selfContained_deb.deb
+Size: 64991592
+MD5sum: 27af6e7c07cdb9f4944feb3c8ed31b67
+SHA1: 303b07ea0e35e62c43bc2f46ab322f5a8e7296f3
+SHA256: 045ac1bfa0c1026ddd754d18b3edd86f6fa6cc5eb461e65a64fc34fa47dc05aa
+SHA512: d92cfeb820025ef012fde3babd2cc9aaed7bfb601f49ef38078744889cb3e3f75cd17cc60a5f0e4040998c0949866bfd28a8a7b193ac1e3e98db4885072eb9ce
 Homepage: https://classisland.tech
 Description: 功能强大、可定制、跨平台的大屏课表显示工具。
 Build-Depends: debhelper (>=9)
-Standards-Version: 2.1.0.0
+Standards-Version: 2.1.0.1
 
