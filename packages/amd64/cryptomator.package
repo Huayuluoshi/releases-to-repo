@@ -1,18 +1,18 @@
 Package: cryptomator
 Architecture: amd64
-Version: 1.19.2-0ppa1
+Version: 1.19.3-0ppa1
 Priority: optional
 Section: utils
 Maintainer: Cryptobot <releases@cryptomator.org>
-Installed-Size: 135942
-Depends: libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.34), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.3.5), libgcc-s1 (>= 3.0), libgdk-pixbuf-2.0-0 (>= 2.22.0), libgif7 (>= 5.1), libgl1, libglib2.0-0 (>= 2.51.2), libgtk-3-0 (>= 3.20.0), libharfbuzz0b (>= 2.1.1), libjpeg8 (>= 8c), liblcms2-2 (>= 2.8), libpango-1.0-0 (>= 1.22.0), libpangocairo-1.0-0 (>= 1.14.0), libpangoft2-1.0-0 (>= 1.14.0), libpng16-16 (>= 1.6.2-1), libstdc++6 (>= 11), libx11-6, libxext6, libxi6, libxrender1, libxtst6, libxxf86vm1, zlib1g (>= 1:1.2.2), fuse3
+Installed-Size: 141956
+Depends: libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.35), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.3.5), libgdk-pixbuf-2.0-0 (>= 2.22.0), libgl1, libglib2.0-0 (>= 2.51.2), libgtk-3-0 (>= 3.20.0), libpango-1.0-0 (>= 1.22.0), libpangocairo-1.0-0 (>= 1.14.0), libpangoft2-1.0-0 (>= 1.14.0), libx11-6, libxext6, libxi6, libxrender1, libxtst6, libxxf86vm1, zlib1g (>= 1:1.2.3.4), fuse3
 Recommends: gvfs-backends, gvfs-fuse, gnome-keyring
-Filename: https://github.com/cryptomator/cryptomator/releases/download/1.19.2/cryptomator_1.19.2-0ppa1_amd64.deb
-Size: 50504242
-MD5sum: 2171c2f0e9b5520d8294840b443c30ef
-SHA1: 1402b05714801788f4162cd077b1656f6d70680b
-SHA256: d1d788106d01c7135a7acf63b027e929237db0f8194925e15b0e868b0d10eaec
-SHA512: b8bf7bd689402593cb8bbccf6803edc1100cb49a0d7e726a9d85b2fea66070606431e0ac6afa735d0b67fcf0c959fe30dc8a3ace0952b1cae3b63deeebfd2215
+Filename: https://github.com/cryptomator/cryptomator/releases/download/1.19.3/cryptomator_1.19.3-0ppa1_amd64.deb
+Size: 52309774
+MD5sum: e437fe5fcb7655283bb84dd503245455
+SHA1: 256517cda8a19776450b9eafae234c7dcc21e1f3
+SHA256: 26e5dd69b6f40fca85e96823172aa31c05474b7282914ac73677f056ceae814f
+SHA512: 3cdd7c466b77f7648e8bd7f2cffc97281fb19bd57963c9c710dc0bf96339550b09e7a70e80bd58aafaba6ffa85edf27ff0d731b2b659b540aaffd07485e3ae00
 Homepage: https://cryptomator.org
 Description: Multi-platform client-side encryption of your cloud files.
  Cryptomator provides free client-side AES encryption for your cloud files.
