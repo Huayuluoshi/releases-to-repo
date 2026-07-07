@@ -10,7 +10,7 @@
     "cloudflared": "2026.6.1",
     "cn.classisland.app": "2.1.0.1",
     "code-server": "v4.127.0",
-    "codium": "1.121.03429",
+    "codium": "1.126.04524",
     "cryptomator": "1.19.3",
     "dbeaver-ce": "26.1.2",
     "draw.io": "v30.2.6",
@@ -79,7 +79,7 @@
     "ghost-downloader": "v4.0.5",
     "frpc-desktop": "v1.2.6",
     "motrix-next": "v3.9.6",
-    "boxplayer": "v4.0.13",
+    "boxplayer": "v5.0.0",
     "tssh": "v0.1.25",
     "marktext": "v0.19.1",
     "chsrc": "v0.2.5"
