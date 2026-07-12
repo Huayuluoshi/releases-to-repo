@@ -1,16 +1,16 @@
 Package: frps
 Architecture: arm64
-Version: 0.69.1+1
+Version: 0.70.0+1
 Priority: optional
 Section: web
 Maintainer: wcbing <i@wcbing.top>
-Installed-Size: 18352
-Filename: https://github.com/wcbing-apt-repo/frp-debs/releases/download/v0.69.1/frps_0.69.1+1_arm64.deb
-Size: 4868640
-MD5sum: 3a79600a123f1f0564c3387b669c0772
-SHA1: 7f46fb22f0f3fcc0158472012cadf08e8a7e9596
-SHA256: a36adfbb3e055f64ecde5785fc4fc21f5d8ba871b5f2a36c2c472d5e84593045
-SHA512: f30f6b274449edc0dc6b1f6c86fb7da14ff170c284de64e00e7bbb69c1e4e16fd72bee1ee706426e6ffa7be698d2ece1686b26c489a9893ec8ac300693daea60
+Installed-Size: 18480
+Filename: https://github.com/wcbing-apt-repo/frp-debs/releases/download/v0.70.0/frps_0.70.0+1_arm64.deb
+Size: 4899728
+MD5sum: febd7131855ec7bc6b2b35a510f5429c
+SHA1: a0db51150c7e86f818d98c4c65d4a45aa703482f
+SHA256: 5ce618267127c3c131fe45628337c03b5512c7bce6e708b8aff750832cb46cce
+SHA512: 303aa91745b4d7228878130e25306928fd6afd12819912df35e3cd39e6c5d2975a9c48ac2cb5f02eb2a5f1561b52e8c2c9140ae0f747d2bd5ac0ed08e39ed5b0
 Homepage: https://gofrp.org/
 Description: A fast reverse proxy to help you expose a local server
  behind a NAT or firewall to the internet.
