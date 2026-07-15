@@ -26,7 +26,7 @@
     "hoppscotch": "v26.6.0-0",
     "hugo": "v0.164.0",
     "joplin": "v3.6.15",
-    "koodo-reader": "v2.4.0",
+    "koodo-reader": "v2.4.1",
     "localsend": "v1.17.0",
     "mihomo": "v1.19.28",
     "mqttx": "v1.13.0",
@@ -79,7 +79,7 @@
     "ghost-downloader": "v4.1.0",
     "frpc-desktop": "v1.2.6",
     "motrix-next": "v3.9.6",
-    "boxplayer": "v5.0.3",
+    "boxplayer": "v5.0.4",
     "tssh": "v0.1.25",
     "marktext": "v0.19.1",
     "chsrc": "v0.2.5"
