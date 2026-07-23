@@ -7,7 +7,7 @@
     "cherrystudio": "v1.9.12",
     "chezmoi": "v2.71.1",
     "clash-verge": "v2.5.2",
-    "cloudflared": "2026.7.2",
+    "cloudflared": "2026.7.3",
     "cn.classisland.app": "2.1.0.1",
     "code-server": "v4.129.0",
     "codium": "1.126.04524",
@@ -79,7 +79,7 @@
     "ghost-downloader": "v4.1.1",
     "frpc-desktop": "v1.2.6",
     "motrix-next": "v3.9.6",
-    "boxplayer": "v5.0.7",
+    "boxplayer": "v5.0.8",
     "tssh": "v0.1.25",
     "marktext": "v0.19.1",
     "chsrc": "v0.2.5"
