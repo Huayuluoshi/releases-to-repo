@@ -1,17 +1,17 @@
 Package: chsrc
 Architecture: amd64
-Version: 0.2.5-1
+Version: 0.2.6-1
 Priority: optional
 Section: utils
 Maintainer: sanchuanhehe <wyihe5520@gmail.com>
 Installed-Size: 236
 Depends: libc6 (>= 2.34)
-Filename: https://github.com/RubyMetric/chsrc/releases/download/v0.2.5/chsrc_0.2.5-1_amd64.deb
-Size: 78338
-MD5sum: 22bfe866b490ada5c7f5b28bf33bc652
-SHA1: 3f0285253de6f48ca96cc9650f14b0bb226c899b
-SHA256: f02f94c21388d2f092ccf7e7d1acbacefa76291b9a29fa329727f0305109a307
-SHA512: 14e826a59fa985f534695f4a14baea5e806da533979b79d3dbeb0ae11564916b5349ff45d41cc11b7f8a654c23f1f9cf1e86a8ba7d0b3beace929ee491b563b4
+Filename: https://github.com/RubyMetric/chsrc/releases/download/v0.2.6/chsrc_0.2.6-1_amd64.deb
+Size: 78420
+MD5sum: 64752ac34da3980eff959beefb92c353
+SHA1: de89cb493e510fe028b694b6bf019faac03e203d
+SHA256: e4f16b817d179f4de12f97de2bf8d82df8733cfeeb85da45d72e4ae6177a1a4d
+SHA512: 7da68a76031bd8423a41ad46334a3c8919f75470e830c365c265fc9a746bdbe3ee28b45331460277a9dba2734cf35d6ce96301da3157d7f20a157f7202bcd903
 Homepage: https://chsrc.run/
 Description: Change Source - A tool for changing software sources
  chsrc is a command-line tool for changing software sources (mirrors)
