@@ -1,16 +1,16 @@
 Package: himalaya
 Architecture: arm64
-Version: 1.2.0-1
+Version: 2.0.0+1
 Priority: optional
 Section: mail
 Maintainer: wcbing <i@wcbing.top>
-Installed-Size: 27344
-Filename: https://github.com/wcbing-apt-repo/himalaya-debs/releases/latest/download/./himalaya_1.2.0-1_arm64.deb
-Size: 5947232
-MD5sum: 572c906c0e3599aa86f80fa063f31624
-SHA1: 6c717bf85f3248c8b1a2984893dc92c887bfd1e8
-SHA256: 6148859d2b6569dc6d4750f346181fd2dc3250123edf6d855af2f1e363766783
-SHA512: dbf496b897f05c4cf3c11eeeebfbc37e7a63e313299831cbbd21a310076f5220cb2a0ed8ad60238ee8ece86c6f5898dc285fdf6b55f6a1e571cf47729b7649a8
+Installed-Size: 11008
+Filename: https://github.com/wcbing-apt-repo/himalaya-debs/releases/download/v2.0.0/himalaya_2.0.0+1_arm64.deb
+Size: 3247328
+MD5sum: 3f41d2544534a8bf2be56bd6f0b6bd29
+SHA1: 03911707affef3ec4b1707ab8071e159e50eaa2a
+SHA256: 909ffd9cd20feec9285ce9f47b1db3c721add463e0376255e2ff2f8a5e9cf5df
+SHA512: b128e96a009c01a680e03144164ffb5851c6825f69cd66d682bbb30a485f6e6d2878633e73df308ec9ba4e8605db7b86c3fbdd161ddf64c4c4effc9cb5f712a6
 Homepage: https://github.com/pimalaya/himalaya
 Description: CLI to manage emails, based on email-lib
 
