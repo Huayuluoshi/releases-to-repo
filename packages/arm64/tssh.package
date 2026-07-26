@@ -1,15 +1,16 @@
 Package: tssh
 Architecture: arm64
-Version: 0.1.25
+Version: 0.1.26
 Priority: optional
+Section: net
 Maintainer: Lonny Wong <lonnywong@qq.com>
-Installed-Size: 18496
-Filename: https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.25/tssh_0.1.25_linux_aarch64.deb
-Size: 6970184
-MD5sum: 0a6be08bd56924041a59839766e6991a
-SHA1: 6a98d825b0526429a05532c0434953b391a843ef
-SHA256: 6056ac4abda3a2bb53716a9ebe05bd069d7a161920bef95481bf161eaa8a4a30
-SHA512: b7697aa883437d32f441d918d7d57a71575dabeb4a86a88aeae0c2691eee3a16a38cef4451b72773670fb1e997c9bd1a5d90927823051cf40841d8f46010a08c
-Homepage: https://trzsz.github.io/
-Description: tssh is an alternative ssh client with additional features to meet your needs.
+Installed-Size: 19648
+Filename: https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.26/tssh_0.1.26_linux_aarch64.deb
+Size: 7391386
+MD5sum: 9c4a3babf9b651beceb52f6ff9aa25b5
+SHA1: 788f8a3c0df66d0338c213a19e7d67943fdfb73f
+SHA256: 048d3cb04b6748649cdb105ecffdc21179dd3f3aa647198372d95988486ba32b
+SHA512: fe7c32f0282b7cbc194259a6271dda3cd38184a4f552b720e35db5ff64fb444d594073de2d5dd6cf6a62c5df5630b4ac4bed10a68e56da23559eed651740f4eb
+Homepage: https://trzsz.github.io/tssh
+Description: tssh is a highly OpenSSH-compatible client with extended features.
 
