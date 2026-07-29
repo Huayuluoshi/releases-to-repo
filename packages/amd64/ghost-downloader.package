@@ -1,15 +1,15 @@
 Package: ghost-downloader
 Architecture: amd64
-Version: 4.2.1
+Version: 4.2.2
 Priority: optional
 Section: net
 Maintainer: XiaoYouChR <XiaoYouChR@qq.com>
-Filename: https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.2.1/Ghost-Downloader-v4.2.1-Linux-x86_64.deb
-Size: 66450956
-MD5sum: 1dc33663f0d6ab0495c642ac7ef7d9fc
-SHA1: c07ec3c472a9e539d32a73fa50ecb387a973ae76
-SHA256: 0e73f6065f8c76414d4a8f7dd6661b6f6ad2cf31a7cc27a85fbf949ae4095f0f
-SHA512: 365c3aa5378420c5dcff63810eb0342da5af7bc37dfafdc18438c46cc3f4ca87f6a2459a05a3890ac3b8886a0bc84310d71cc82ea6a0ee173d1b9b84bfa222b5
+Filename: https://github.com/XiaoYouChR/Ghost-Downloader-3/releases/download/v4.2.2/Ghost-Downloader-v4.2.2-Linux-x86_64.deb
+Size: 66492654
+MD5sum: 11137dc18393fae5dcbbbeec10dee454
+SHA1: 010d0e7dfaca40e8b3cdbac0e374256220654176
+SHA256: 24ddf99b6fe7d73e4e96bdc18572c394b55cdd1e8e0313f69a88bbbcf5248536
+SHA512: 8d5762ed23e38710ebe9d388db981b5ac213caa2d9ca657a692cad500e43ee3b4aeb2448f33f3f84e9b2791e93c595148e60b91321be55a8d7f007156028ef48
 Description: Ghost Downloader
  A multi-threading downloader based on PySide6.
 
