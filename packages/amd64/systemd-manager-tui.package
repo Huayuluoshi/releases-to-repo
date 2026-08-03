@@ -1,16 +1,16 @@
 Package: systemd-manager-tui
 Architecture: amd64
-Version: 1.2.4-1
+Version: 1.2.5-1
 Priority: optional
 Maintainer: Matheus-git <mathiew0@gmail.com>
-Installed-Size: 7521
+Installed-Size: 7873
 Depends:
-Filename: https://github.com/matheus-git/systemd-manager-tui/releases/download/v1.2.4/systemd-manager-tui_1.2.4_amd64.deb
-Size: 2008452
-MD5sum: 086b5400860f59fbac5b729213637e78
-SHA1: 369efa65ccd80892f7ec90a0e86f0c22ec5ba4ca
-SHA256: 9d30cfd037353f47361254e9cd3da16f3c1878ae71428cbf8d9022e4499a775a
-SHA512: 9a6acd6d7ec66c5b0536ea93caca3b26c0f6835cefbed490f7c4568a5f60f90b3e4609f5f4abe4b7e5f6f43faff7860576c7200534ee02fc76a42039e0c75b80
+Filename: https://github.com/matheus-git/systemd-manager-tui/releases/download/v1.2.5/systemd-manager-tui_1.2.5_amd64.deb
+Size: 2131504
+MD5sum: d012f1cdd40495b6f36664befae873d3
+SHA1: d51d8378162f65c85c3faad1c5cd905b32a1e707
+SHA256: 26843579634740fb04f2b5fc018101bd46aa1fe50e97b03c40775f6663210565
+SHA512: 0cc93f5e9c59cfd75b13b3818831da1f8978113556a15ee7cfadda7b16df09ecd5e893b047d00977ea40903247f32b617120884eb32a6204e5552323f6f1136c
 Homepage: https://github.com/matheus-git/systemd-manager-tui
 Description: TUI for managing systemd services
  # Systemd manager tui
@@ -31,6 +31,15 @@ Description: TUI for managing systemd services
  .
  View
  [screenshots](https://github.com/matheus-git/systemd-manager-tui/blob/main/docs/screenshots.md)
+ .
+ ## Usage
+ .
+ ```bash
+ systemd-manager-tui
+ .
+ # With a filter
+ systemd-manager-tui -f docker
+ ```
  .
  ## Install
  .
