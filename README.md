@@ -44,6 +44,7 @@ sudo apt update
 | [Dufs](https://github.com/wcbing-apt-repo/dufs-debs)* | dufs | ✅ | ✅ |
 | [EasyPostman](https://github.com/lakernote/easy-postman) | easypostman | ✅ | ✅ |
 | [Thorium Reader](https://github.com/edrlab/thorium-reader) | edrlab.thoriumreader | ✅ | ✅ |
+| [Escrcpy](https://github.com/viarotel-org/escrcpy) | escrcpy | ✅ | ✅ |
 | [Fastfetch](https://github.com/fastfetch-cli/fastfetch) | fastfetch | ✅ | ✅ |
 | [File Browser](https://github.com/wcbing-apt-repo/filebrowser-debs)* | filebrowser | ✅ | ✅ |
 | [FlClash](https://github.com/chen08209/FlClash) | flclash | ✅ | ✅ |

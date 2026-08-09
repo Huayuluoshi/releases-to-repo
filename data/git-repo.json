@@ -142,6 +142,13 @@
             "arm64": "EDRLab.ThoriumReader_{version}_arm64.deb"
         }
     },
+    "escrcpy": {
+        "repo": "viarotel-org/escrcpy",
+        "file_list": {
+            "amd64": "Escrcpy-{version}-linux-amd64.deb",
+            "arm64": "Escrcpy-{version}-linux-arm64.deb"
+        }
+    },
     "fastfetch": {
         "repo": "fastfetch-cli/fastfetch",
         "file_list": {
