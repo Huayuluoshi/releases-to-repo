@@ -1,0 +1,21 @@
+Package: escrcpy
+Architecture: arm64
+Version: 3.0.8
+Priority: optional
+Section: default
+Maintainer: viarotel@qq.com
+Installed-Size: 358229
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: https://github.com/viarotel-org/escrcpy/releases/download/v3.0.8/Escrcpy-3.0.8-linux-arm64.deb
+Size: 94455454
+MD5sum: b0e5b178d56681d4fbd9208640f57298
+SHA1: 2938689db589a7665206a6a26a066d2629863a9c
+SHA256: 886092dae6d2c466fbd2211c86a7ee07379ba6a67ed0ca4f97c6b1d5a8b06617
+SHA512: a815ae12f63dec7ba10a984ae4a3324623e04dc6c09c3674c9eff52666e428fb6c9d5b404df2c03a495f70c3df6710e0b03e713edb7a3fa3498062032deec825
+Homepage: https://github.com/viarotel-org/escrcpy
+Description: 
+  Scrcpy Powered by Electron
+License: unknown
+Vendor: viarotel@qq.com
+
