@@ -46,7 +46,6 @@ sudo apt update
 | [Thorium Reader](https://github.com/edrlab/thorium-reader) | edrlab.thoriumreader | ✅ | ✅ |
 | [Fastfetch](https://github.com/fastfetch-cli/fastfetch) | fastfetch | ✅ | ✅ |
 | [File Browser](https://github.com/wcbing-apt-repo/filebrowser-debs)* | filebrowser | ✅ | ✅ |
-| [Flameshot](https://github.com/flameshot-org/flameshot) | flameshot | ✅ | |
 | [FlClash](https://github.com/chen08209/FlClash) | flclash | ✅ | ✅ |
 | [Foliate](https://github.com/johnfactotum/foliate) | foliate | ✅ | ✅ |
 | [fooyin](https://github.com/fooyin/fooyin) | fooyin | ✅ | |
@@ -87,7 +86,6 @@ sudo apt update
 | [Simplenote](https://github.com/Automattic/simplenote-electron) | simplenote | ✅ | ✅ |
 | [思源笔记](https://github.com/siyuan-note/siyuan) | siyuan | ✅ | ✅ |
 | [Sparkle](https://github.com/xishang0128/sparkle) | sparkle | ✅ | ✅ |
-| [SPlayer](https://github.com/SPlayer-Dev/SPlayer) | splayer | ✅ | ✅ |
 | [superfile](https://github.com/wcbing-apt-repo/superfile-debs)* | superfile | ✅ | ✅ |
 | [Systemd manager tui](https://github.com/matheus-git/systemd-manager-tui) | systemd-manager-tui | ✅ | ✅ |
 | [Tabby](https://github.com/Eugeny/tabby) | tabby-terminal | ✅ | ✅ |
@@ -114,7 +112,8 @@ sudo apt update
 
 | 软件名 | 包名 | amd64 | arm64 |
 | ----- | --- | ----- | ----- |
-| [Flameshot](https://github.com/flameshot-org/flameshot) | flameshot | | ✅ |
+| [Flameshot](https://github.com/flameshot-org/flameshot) | flameshot | ✅ | ✅ |
 | [Motrix](https://github.com/agalwood/Motrix) | motrix | ✅ | ✅ |
+| [SPlayer](https://github.com/SPlayer-Dev/SPlayer) | splayer | ✅ | ✅ |
 | [SunnyCapturer](https://github.com/XMuli/SunnyCapturer) | sunnycapturer | ✅ | |
 | [Yolx](https://github.com/uiYzzi/Yolx) | yolx | ✅ | |

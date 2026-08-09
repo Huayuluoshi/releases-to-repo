@@ -156,12 +156,6 @@
             "arm64": "filebrowser_{version}+1_arm64.deb"
         }
     },
-    "flameshot": {
-        "repo": "flameshot-org/flameshot",
-        "file_list": {
-            "amd64": "flameshot-{version}-1.debian-12.amd64.deb"
-        }
-    },
     "flclash": {
         "repo": "chen08209/FlClash",
         "file_list": {
@@ -439,13 +433,6 @@
         "file_list": {
             "amd64": "sparkle-linux-{releases_tag}-amd64.deb",
             "arm64": "sparkle-linux-{releases_tag}-arm64.deb"
-        }
-    },
-    "splayer": {
-        "repo": "SPlayer-Dev/SPlayer",
-        "file_list": {
-            "amd64": "splayer-{version}-amd64.deb",
-            "arm64": "splayer-{version}-arm64.deb"
         }
     },
     "superfile": {
