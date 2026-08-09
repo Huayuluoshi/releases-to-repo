@@ -129,7 +129,7 @@
         }
     },
     "easypostman": {
-        "repo": "lakernote/EasyPostman",
+        "repo": "lakernote/easy-postman",
         "file_list": {
             "amd64": "Easypostman-{version}-linux-amd64.deb",
             "arm64": "EasyPostman-{version}-linux-arm64.deb"
@@ -442,7 +442,7 @@
         }
     },
     "splayer": {
-        "repo": "imsyy/SPlayer",
+        "repo": "SPlayer-Dev/SPlayer",
         "file_list": {
             "amd64": "splayer-{version}-amd64.deb",
             "arm64": "splayer-{version}-arm64.deb"
@@ -523,7 +523,7 @@
         }
     },
     "winboat": {
-        "repo": "TibixDev/winboat",
+        "repo": "winboat-org/winboat",
         "file_list": {
             "amd64": "winboat-{version}-amd64.deb"
         }

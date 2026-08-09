@@ -42,7 +42,7 @@ sudo apt update
 | [draw.io](https://github.com/jgraph/drawio-desktop) | draw.io | ✅ | ✅ |
 | [Dust](https://github.com/bootandy/dust) | du-dust | ✅ | |
 | [Dufs](https://github.com/wcbing-apt-repo/dufs-debs)* | dufs | ✅ | ✅ |
-| [EasyPostman](https://github.com/lakernote/EasyPostman) | easypostman | ✅ | ✅ |
+| [EasyPostman](https://github.com/lakernote/easy-postman) | easypostman | ✅ | ✅ |
 | [Thorium Reader](https://github.com/edrlab/thorium-reader) | edrlab.thoriumreader | ✅ | ✅ |
 | [Fastfetch](https://github.com/fastfetch-cli/fastfetch) | fastfetch | ✅ | ✅ |
 | [File Browser](https://github.com/wcbing-apt-repo/filebrowser-debs)* | filebrowser | ✅ | ✅ |
@@ -87,7 +87,7 @@ sudo apt update
 | [Simplenote](https://github.com/Automattic/simplenote-electron) | simplenote | ✅ | ✅ |
 | [思源笔记](https://github.com/siyuan-note/siyuan) | siyuan | ✅ | ✅ |
 | [Sparkle](https://github.com/xishang0128/sparkle) | sparkle | ✅ | ✅ |
-| [SPlayer](https://github.com/imsyy/SPlayer) | splayer | ✅ | ✅ |
+| [SPlayer](https://github.com/SPlayer-Dev/SPlayer) | splayer | ✅ | ✅ |
 | [superfile](https://github.com/wcbing-apt-repo/superfile-debs)* | superfile | ✅ | ✅ |
 | [Systemd manager tui](https://github.com/matheus-git/systemd-manager-tui) | systemd-manager-tui | ✅ | ✅ |
 | [Tabby](https://github.com/Eugeny/tabby) | tabby-terminal | ✅ | ✅ |
@@ -99,7 +99,7 @@ sudo apt update
 | [柚坛工具箱 NT](https://github.com/Uotan-Dev/UotanToolboxNT) | uotantoolbox | ✅ | ✅ |
 | [venera](https://github.com/venera-app/venera) | venera | ✅ | ✅ |
 | [Wave Terminal](https://github.com/wavetermdev/waveterm) | waveterm | ✅ | ✅ |
-| [WinBoat](https://github.com/TibixDev/winboat) | winboat | ✅ | |
+| [WinBoat](https://github.com/winboat-org/winboat) | winboat | ✅ | |
 | [X Minecraft Launcher](https://github.com/Voxelum/x-minecraft-launcher) | xmcl | ✅ | ✅ |
 | [Yazi](https://github.com/sxyazi/yazi) | yazi | ✅ | ✅ |
 | [YesPlayMusic](https://github.com/qier222/YesPlayMusic) | yesplaymusic | ✅ | ✅ |
