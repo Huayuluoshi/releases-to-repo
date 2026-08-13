@@ -224,6 +224,12 @@
             "arm64": "grpcurl_{version}_linux_arm64.deb"
         }
     },
+    "heroic": {
+        "repo": "Heroic-Games-Launcher/HeroicGamesLauncher",
+        "file_list": {
+            "amd64": "Heroic-{version}-linux-amd64.deb"
+        }
+    },
     "hiddify": {
         "repo": "hiddify/hiddify-app",
         "file_list": {

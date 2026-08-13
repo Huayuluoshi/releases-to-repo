@@ -55,6 +55,7 @@ sudo apt update
 | [Frpc-Desktop](https://github.com/luckjiawei/frpc-desktop) | frpc-desktop | ✅ | ✅ |
 | [Ghost-Downloader](https://github.com/XiaoYouChR/Ghost-Downloader-3) | ghost-downloader | ✅ | ✅ |
 | [gRPCurl](https://github.com/fullstorydev/grpcurl) | grpcurl | ✅ | ✅ |
+| [Heroic Games Launcher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) | heroic | ✅ | |
 | [Hiddify](https://github.com/hiddify/hiddify-app) | hiddify | ✅ | |
 | [Himalaya](https://github.com/wcbing-apt-repo/himalaya-debs)* | himalaya | ✅ | ✅ |
 | [Hoppscotch](https://github.com/hoppscotch/releases) | hoppscotch | ✅ | |
