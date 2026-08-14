@@ -1,17 +1,17 @@
 Package: FlClash
 Architecture: amd64
-Version: 0.8.94+2026071102
+Version: 0.8.95+2026081401
 Priority: optional
 Essential: no
 Section: x11
 Maintainer: chen08209 <chen08209@gmail.com>
 Installed-Size: 6604
-Depends: libayatana-appindicator3-dev, libkeybinder-3.0-dev
-Filename: https://github.com/chen08209/FlClash/releases/download/v0.8.94/FlClash-0.8.94-linux-amd64.deb
-Size: 41930074
-MD5sum: c825c475a436c63dbdb79a281119985a
-SHA1: 850f918a109e2c1df64e507877b58b1424a4a01d
-SHA256: e3d7ad04d6918cbe40d69a146c214ab3674cfb8ce4494d6ab5ae5d8105fea643
-SHA512: 6fe06552f12f7b30c730a088312a7fae74b583353c17335f02d220e97ed3ee0ea3a9e6084321959dd347bbb3a3dc208ae3cb6be32245592ea565ed9562a808b9
+Depends: libayatana-appindicator3-dev, libkeybinder-3.0-dev, libsecret-1-0
+Filename: https://github.com/chen08209/FlClash/releases/download/v0.8.95/FlClash-0.8.95-linux-amd64.deb
+Size: 42087442
+MD5sum: cbc073fe0c95405c196f90a505e164e3
+SHA1: 0a754d8b2a682d60fc3cd88e50518dfbfa0f8bdc
+SHA256: f81b3e31e525588e9970dc783191780889a2f47debda96f628cb22a5d4543ee2
+SHA512: 5b90fb27a43d020c67b35b14e20ae77f7c282288d150669c133ba660fcf0597295a0bb206a519e67ed9393c6bd475156886c57497f67f12c7d69cea91e96e96f
 Description: A multi-platform proxy client based on ClashMeta, simple and easy to use, open-source and ad-free.
 
