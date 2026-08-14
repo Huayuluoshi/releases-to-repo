@@ -38,7 +38,8 @@ sudo apt update
 | [code-server](https://github.com/coder/code-server) | code-server | ✅ | ✅ |
 | [VSCodium](https://github.com/VSCodium/vscodium) | codium | ✅ | ✅ |
 | [Cryptomator](https://github.com/cryptomator/cryptomator) | cryptomator | ✅ | |
-| [DBeaver](https://github.com/dbeaver/dbeaver) | dbeaver-ce | ✅ | |
+| [DBeaver](https://github.com/dbeaver/dbeaver) | dbeaver-ce | ✅ | ✅ |
+| [DBX](https://github.com/t8y2/dbx) | dbx | ✅ | ✅ |
 | [draw.io](https://github.com/jgraph/drawio-desktop) | draw.io | ✅ | ✅ |
 | [Dust](https://github.com/bootandy/dust) | du-dust | ✅ | |
 | [Dufs](https://github.com/wcbing-apt-repo/dufs-debs)* | dufs | ✅ | ✅ |
