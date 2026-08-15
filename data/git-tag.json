@@ -54,7 +54,7 @@
     "venera": "v1.6.3",
     "waveterm": "v0.14.5",
     "winboat": "v0.9.0",
-    "yazi": "v26.5.6",
+    "yazi": "v26.8.15",
     "yesplaymusic": "v0.4.10",
     "zyfun": "v3.4.7",
     "powershell": "v7.6.5",
@@ -85,5 +85,5 @@
     "chsrc": "v0.2.6",
     "escrcpy": "v3.0.8",
     "heroic": "v2.22.1",
-    "dbx": "v0.5.84"
+    "dbx": "v0.5.85"
 }

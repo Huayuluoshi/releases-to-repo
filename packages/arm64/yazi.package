@@ -1,20 +1,20 @@
 Package: yazi
 Architecture: arm64
-Version: 26.5.6-1
+Version: 26.8.15-1
 Priority: optional
 Section: utility
 Maintainer: sxyazi <sxyazi@gmail.com>
-Installed-Size: 21508
-Depends: 7zip, fd-find|fd, ffmpeg, file, fzf, imagemagick, jq, poppler-utils, ripgrep, xsel|xclip|wl-clipboard, zoxide
-Recommends: bash-completion
-Filename: https://github.com/sxyazi/yazi/releases/download/v26.5.6/yazi-aarch64-unknown-linux-musl.deb
-Size: 6429692
-MD5sum: 0ab9a2f97a69176018c40063ad5e2413
-SHA1: dd9cb94ea2df9a1641eb974936c5eb3f6d548812
-SHA256: 352e77dab1ecfb6f79a8e77035cac021ad267307482a17cecf825fad76a1284d
-SHA512: 0d751cbf756e61db8dfd5eca5cd6af52b3d889deac57738c4dda2109869a560afeba851be1df1e89cb984ef835c92de64a5f7fe0ed2fe90647369f3d870cd5cd
+Installed-Size: 27721
+Depends: file
+Recommends: bash-completion, ffmpeg, 7zip, jq, poppler-utils, fd-find|fd, ripgrep, fzf, zoxide, imagemagick, xsel|xclip|wl-clipboard
+Filename: https://github.com/sxyazi/yazi/releases/download/v26.8.15/yazi-aarch64-unknown-linux-musl.deb
+Size: 9335868
+MD5sum: 7b7b593f43eee260c89e71da06d15228
+SHA1: b509edf41701fc196d2437761e6174cf98ff48b1
+SHA256: 4bde17f22827f6c2e70a5ac1909705c3f339503ddff491ee6fb13cc035182195
+SHA512: 00b2c4d1bb1abd43a3a6fd752905d6a7e144ce3ce9de3f647aa1d9644063f7c3ed415eb73520a48a1338a370638a23c444c67b32d13e21c56d59990773f47d64
 Homepage: https://yazi-rs.github.io
-Description: Yazi packing
+Description: Blazing fast terminal file manager written in Rust, based on async I/O.
  <div align="center">
    <sup>Special thanks to:</sup><br>
  .
@@ -50,7 +50,8 @@ Description: Yazi packing
  - 🔌 **Concurrent Plugin System**: UI plugins (rewriting most of the UI),
  functional plugins, custom previewer/preloader/spotter/fetcher; Just some
  pieces of Lua.
- - ☁️ **Virtual Filesystem**: Remote file management, custom search engines.
+ - ☁️ **Virtual Filesystem**: Remote file management, custom VFS provider,
+ custom search engines.
  - 📡 **Data Distribution Service**: Built on a client-server architecture (no
  additional server process required), integrated with a Lua-based
  publish-subscribe model, achieving cross-instance communication and state
@@ -62,10 +63,12 @@ Description: Yazi packing
  cd paths
  - 🏷️ Multi-Tab Support, Cross-directory selection, Scrollable Preview (for
  videos, PDFs, archives, code, directories, etc.)
- - 🔄 Bulk Renaming, Archive Extraction, Visual Mode, File Chooser, [Git
+ - 🔄 Bulk Rename/Create, Archive Extraction, Visual Mode, File Chooser, [Git
  Integration](https://github.com/yazi-rs/plugins/tree/main/git.yazi), [Mount
  Manager](https://github.com/yazi-rs/plugins/tree/main/mount.yazi)
- - 🎨 Theme System, Mouse Support, Trash Bin, Custom Layouts, CSI u, OSC 52
+ - 🎨 Theme System, Mouse Support, [Drag and
+ Drop](https://yazi-rs.github.io/docs/dnd), Trash Bin, Custom Layouts, CSI u,
+ OSC 52, CSI 2031
  - ... and more!
  .
  https://github.com/sxyazi/yazi/assets/17523360/92ff23fa-0cd5-4f04-b387-894c12265cc7
