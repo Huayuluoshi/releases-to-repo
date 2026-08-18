@@ -60,7 +60,7 @@
     "powershell": "v7.6.5",
     "kula": "0.18.8",
     "edrlab.thoriumreader": "v3.4.0",
-    "easypostman": "v6.0.18",
+    "easypostman": "v6.0.19",
     "netease-cloud-music": "v2.0.4",
     "nautilus-open-any-terminal": "0.8.3",
     "xmcl": "v0.66.2",
@@ -85,5 +85,5 @@
     "chsrc": "v0.2.6",
     "escrcpy": "v3.0.8",
     "heroic": "v2.22.1",
-    "dbx": "v0.5.87"
+    "dbx": "v0.5.88"
 }
