@@ -79,11 +79,11 @@
     "ghost-downloader": "v4.3.3",
     "frpc-desktop": "v1.2.6",
     "motrix-next": "v3.9.7",
-    "boxplayer": "v5.0.20",
+    "boxplayer": "v5.0.21",
     "tssh": "v0.1.26",
     "marktext": "v0.19.1",
     "chsrc": "v0.2.6",
     "escrcpy": "v3.0.8",
     "heroic": "v2.22.1",
-    "dbx": "v0.5.88"
+    "dbx": "v0.5.89"
 }
