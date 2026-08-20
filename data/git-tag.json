@@ -76,7 +76,7 @@
     "nexttrace": "v1.7.2",
     "superfile": "v1.6.0",
     "nexttrace-tiny": "v1.7.2",
-    "ghost-downloader": "v4.3.3",
+    "ghost-downloader": "v4.3.4",
     "frpc-desktop": "v1.2.6",
     "motrix-next": "v3.9.7",
     "boxplayer": "v5.0.21",
@@ -85,5 +85,5 @@
     "chsrc": "v0.2.6",
     "escrcpy": "v3.0.8",
     "heroic": "v2.22.1",
-    "dbx": "v0.5.89"
+    "dbx": "v0.5.90"
 }
