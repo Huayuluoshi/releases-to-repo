@@ -1,18 +1,18 @@
 Package: joplin
 Architecture: amd64
-Version: 3.6.15
+Version: 3.6.16
 Priority: optional
 Section: default
 Maintainer: Joplin Team <no-reply@joplinapp.org>
-Installed-Size: 416462
+Installed-Size: 416447
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: https://github.com/laurent22/joplin/releases/download/v3.6.15/Joplin-3.6.15.deb
-Size: 104324556
-MD5sum: 3e4d576293a37f5b520bcacc363f6ade
-SHA1: 2be47a8e9cb9313b92dd3f87e484ee9ad175021e
-SHA256: c9fc77c077f1c81c581324dfdd4cc785307ea3c5b5f19ceecf9ee20fa78ac792
-SHA512: 592278cc61cf0991c22adb589e9265e2400dcdb100b51940ca22418e517acefa11f20eaa0364c0fbe512cba0165f2354bd5aa17cdb2de80fb7ebd676947317a3
+Filename: https://github.com/laurent22/joplin/releases/download/v3.6.16/Joplin-3.6.16.deb
+Size: 105163460
+MD5sum: 31f603548b0fd95413f150fdf778c2e8
+SHA1: 25c91258047a5ba4542551c489dc7bfbcbb70f91
+SHA256: 1b7f42d2ee978b1adf5cd95b8880b48769f42e3135076632392192022e300e7d
+SHA512: 04451535c753e651f2270350ea02f765e20b063aa45d3a70c66df405384394d4a8da7deb9e73d6f5cc038e2f56091dbe74f955a14d815f4216dd8b6ce4797833
 Homepage: https://github.com/laurent22/joplin#readme
 Description: 
   Joplin for Desktop
