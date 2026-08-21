@@ -13,7 +13,7 @@
     "codium": "1.126.04524",
     "cryptomator": "1.19.3",
     "dbeaver-ce": "26.1.5",
-    "draw.io": "v31.1.8",
+    "draw.io": "v31.3.1",
     "du-dust": "v1.2.5",
     "fastfetch": "2.67.1",
     "flameshot": "v13.3.0",
@@ -85,5 +85,5 @@
     "chsrc": "v0.2.6",
     "escrcpy": "v3.0.8",
     "heroic": "v2.22.1",
-    "dbx": "v0.5.90"
+    "dbx": "v0.5.91"
 }
