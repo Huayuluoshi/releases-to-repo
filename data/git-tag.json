@@ -19,7 +19,7 @@
     "flameshot": "v13.3.0",
     "flclash": "v0.8.96",
     "foliate": "3.3.0",
-    "fooyin": "v0.12.5",
+    "fooyin": "v0.12.6",
     "fresh-editor": "v0.4.10",
     "grpcurl": "v1.9.3",
     "hiddify": "v4.1.1",
@@ -85,5 +85,5 @@
     "chsrc": "v0.2.7",
     "escrcpy": "v3.0.8",
     "heroic": "v2.22.1",
-    "dbx": "v0.5.91"
+    "dbx": "v0.5.92"
 }
