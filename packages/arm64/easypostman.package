@@ -1,17 +1,17 @@
 Package: easypostman
 Architecture: arm64
-Version: 6.0.19-1
+Version: 6.0.20-1
 Priority: optional
 Section: Development
 Maintainer: Laker <Unknown>
-Installed-Size: 127751
+Installed-Size: 127806
 Provides: easypostman
 Depends: libasound2, libbrotli1, libbsd0, libc6, libfreetype6, libmd0, libpng16-16, libx11-6, libxau6, libxcb1, libxdmcp6, libxext6, libxi6, libxrender1, libxtst6, xdg-utils, zlib1g
-Filename: https://github.com/lakernote/easy-postman/releases/download/v6.0.19/EasyPostman-6.0.19-linux-arm64.deb
-Size: 91012596
-MD5sum: d8a19ba562bdec64dd10eae5b5742768
-SHA1: 5b12b51cfd1ab69c882d471761354b97f27d22ba
-SHA256: a6b4beaa7c44d45734282e0d3cbfd12f2bcea2e3bdcd6189d8b045adc20d87a8
-SHA512: 5db84c424df340024ce510d1846dadbec0fe96942eb26f90da466b055e526b4e08fed125dffeaef2be15783401e0ab2558769c7d0091ebc0457f5b6b9b8cfb0c
+Filename: https://github.com/lakernote/easy-postman/releases/download/v6.0.20/EasyPostman-6.0.20-linux-arm64.deb
+Size: 91052084
+MD5sum: c21991a63a934a443efed4700084196e
+SHA1: a9a338a97bac82a04d8cfa1f0660ac5064ebfcc8
+SHA256: 5ff460526cf2ffbb385ceba44a063d6aa4799a4a4dfa21247b8c0b392293d453
+SHA512: 56455e7533b69583dabbcfa02ea5b91be171187253ba0084f5f09531eb8fb183582ec269b078f49b8744bcef7ca8e8abdf3a7787a56c712cc240fe27bb55873c
 Description: A modern API testing tool similar to Postman
 
