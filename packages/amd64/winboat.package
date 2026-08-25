@@ -1,18 +1,18 @@
 Package: winboat
 Architecture: amd64
-Version: 0.9.0
+Version: 0.9.2
 Priority: optional
 Section: default
 Maintainer: TibixDev <staff@winboat.app>
-Installed-Size: 371989
+Installed-Size: 381131
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: https://github.com/TibixDev/winboat/releases/download/v0.9.0/winboat-0.9.0-amd64.deb
-Size: 100672402
-MD5sum: 0e92e414aecbf19d70b7d08c239642a6
-SHA1: dd9ee45756c2dc8423ca8d7ae57588352f97440d
-SHA256: 91d4d10d173fb572fba7c30ad49a2397374e4cde1bc5b4f807573890962afe4e
-SHA512: 0562e0831092e2f0f3ea1048de41535d2f087fb0491eb6e9cc0f7bd6a6a679efd83614845d329967ae58b78ba1776a284fa0f938135856c3b42060c2bf586fa6
+Filename: https://github.com/winboat-org/winboat/releases/download/v0.9.2/winboat-0.9.2-amd64.deb
+Size: 127296376
+MD5sum: cebe38a7754bea39610a92548c37ca58
+SHA1: 0192e2589905095524c65d6f6f3854426c84e654
+SHA256: c01bfbabef6c1c57895dfb3165d4ca7c6912d2f63c67f61b2c2dd3e69449f0ba
+SHA512: c8599be88e1e5dd633d7bf9f4c238de75a1bc91df851904f2b196b99c579d38f4418c4871056cb895c7a5d79a2f7d2eae9cb5283523663c0313c039dd713a262
 Homepage: https://github.com/TibixDev/winboat#readme
 Description: 
   Windows for Penguins
