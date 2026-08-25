@@ -4,7 +4,7 @@
     "bongo-cat": "v1.1.0",
     "bottom": "0.14.8",
     "caddy": "v2.11.4",
-    "cherrystudio": "v2.0.8",
+    "cherrystudio": "v2.0.9",
     "chezmoi": "v2.72.0",
     "clash-verge": "v2.5.2",
     "cloudflared": "2026.8.2",
@@ -31,7 +31,7 @@
     "mihomo": "v1.19.30",
     "mqttx": "v1.13.0",
     "musicfree": "v0.0.8",
-    "neovim": "v0.12.4",
+    "neovim": "v0.12.5",
     "obsidian": "v1.13.7",
     "onlyoffice-desktopeditors": "v9.4.0",
     "pandoc": "3.10.2",
@@ -76,7 +76,7 @@
     "nexttrace": "v1.7.2",
     "superfile": "v1.6.0",
     "nexttrace-tiny": "v1.7.2",
-    "ghost-downloader": "v4.3.4",
+    "ghost-downloader": "v4.3.5",
     "frpc-desktop": "v1.2.6",
     "motrix-next": "v3.9.7",
     "boxplayer": "v5.0.25",
@@ -85,5 +85,5 @@
     "chsrc": "v0.2.7",
     "escrcpy": "v3.0.8",
     "heroic": "v2.22.1",
-    "dbx": "v0.5.93"
+    "dbx": "v0.5.94"
 }
