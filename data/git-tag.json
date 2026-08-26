@@ -63,7 +63,7 @@
     "easypostman": "v6.0.20",
     "netease-cloud-music": "v2.0.4",
     "nautilus-open-any-terminal": "0.8.3",
-    "xmcl": "v0.67.1",
+    "xmcl": "v0.67.2",
     "dufs": "v0.46.0",
     "filebrowser": "v2.63.23",
     "frpc": "v0.70.1",
@@ -76,7 +76,7 @@
     "nexttrace": "v1.7.2",
     "superfile": "v1.6.0",
     "nexttrace-tiny": "v1.7.2",
-    "ghost-downloader": "v4.3.5",
+    "ghost-downloader": "v4.3.6",
     "frpc-desktop": "v1.2.6",
     "motrix-next": "v3.9.7",
     "boxplayer": "v5.0.25",
@@ -85,5 +85,5 @@
     "chsrc": "v0.2.7",
     "escrcpy": "v3.0.8",
     "heroic": "v2.22.1",
-    "dbx": "v0.5.95"
+    "dbx": "v0.5.96"
 }
