@@ -515,7 +515,6 @@
             "arm64": "UotanToolbox_Linux_arm64_{releases_tag}.deb"
         }
     },
-
     "v2raya": {
         "repo": "v2rayA/v2rayA",
         "file_list": {
@@ -523,7 +522,6 @@
             "arm64": "installer_debian_x64_{version}.deb"
         }
     },
-
     "v2rayn": {
         "repo": "2dust/v2rayN",
         "file_list": {
@@ -531,7 +529,6 @@
             "arm64": "v2rayN-linux-arm64.deb"
         }
     },
-    
     "venera": {
         "repo": "venera-app/venera",
         "file_list": {
