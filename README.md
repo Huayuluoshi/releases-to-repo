@@ -98,6 +98,8 @@ sudo apt update
 | [trzsz-ssh (tssh)](https://github.com/trzsz/trzsz-ssh) | tssh | ✅ | ✅ |
 | [Ulauncher](https://github.com/Ulauncher/Ulauncher) | ulauncher | ✅ | ✅ |
 | [柚坛工具箱 NT](https://github.com/Uotan-Dev/UotanToolboxNT) | uotantoolbox | ✅ | ✅ |
+| [v2raya](https://github.com/v2rayA/v2rayA) | v2raya | ✅ | ✅ |
+| [v2rayn](https://github.com/2dust/v2rayN) | v2rayn | ✅ | ✅ |
 | [venera](https://github.com/venera-app/venera) | venera | ✅ | ✅ |
 | [Wave Terminal](https://github.com/wavetermdev/waveterm) | waveterm | ✅ | ✅ |
 | [WinBoat](https://github.com/winboat-org/winboat) | winboat | ✅ | |
