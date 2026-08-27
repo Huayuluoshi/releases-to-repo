@@ -518,8 +518,8 @@
     "v2raya": {
         "repo": "v2rayA/v2rayA",
         "file_list": {
-            "amd64": "installer_debian_arm64_{version}.deb",
-            "arm64": "installer_debian_x64_{version}.deb"
+            "amd64": "installer_debian_x64_{version}.deb",
+            "arm64": "installer_debian_arm64_{version}.deb"
         }
     },
     "v2rayn": {
