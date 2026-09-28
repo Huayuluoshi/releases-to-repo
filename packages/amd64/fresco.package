@@ -1,0 +1,23 @@
+Package: fresco
+Architecture: amd64
+Version: 1.1.44-1
+Priority: optional
+Section: video
+Maintainer: Dibbayajyoti Roy <maromaromuje28@gmail.com>
+Installed-Size: 18259
+Depends: ffmpegthumbnailer, libadwaita-1-0 (>= 1.1), libegl1, libgl1, libglib2.0-bin, libgtk-4-1 (>= 4.6), libmpv2 | libmpv1, libwayland-client0, libwayland-egl1
+Recommends: mesa-va-drivers, intel-media-va-driver, fonts-inter, gstreamer1.0-plugins-good, gstreamer1.0-libav, ffmpeg, pulseaudio-utils | pipewire-bin, xdg-utils, pkexec | policykit-1
+Filename: https://github.com/DibbayajyotiRoy/Fresco/releases/download/v1.1.44/fresco_1.1.44-1_amd64.deb
+Size: 5300116
+MD5sum: 64652ceabbc47d54c07209334b0f2c3b
+SHA1: 71d87bcb1bbbdd0fc24718f2dbd8ce5814d0f4a7
+SHA256: 9b316b1173a4924b43d9be7ab8e62e608432253e5e9db9286bb83cad40d98035
+SHA512: cb7a1693c275bea04cd7ed687fe37df96c6ef9b1d7804e40a1f279fe9599db151a49fa8adacdb3b12fdeb3b3a3c438624eb61f07ac28c894ade3f467d45c772f
+Homepage: https://github.com/DibbayajyotiRoy/fresco
+Description: Live wallpapers for Linux — video, GIF, image, slideshow, and playlist
+ wallpapers with hardware-accelerated playback
+ Fresco sets videos, GIFs, images, slideshows, and video playlists as your
+ desktop wallpaper. Pick media in a simple app, click Set, close the app — the
+ wallpaper keeps playing and restores on login. Hardware-accelerated decoding
+ keeps CPU usage near zero without degrading quality.
+

@@ -87,6 +87,7 @@ sudo apt update
 | [PeaZip](https://github.com/peazip/PeaZip) | peazip | ✅ | |
 | [PowerShell](https://github.com/PowerShell/PowerShell) | powershell | ✅ | |
 | [Rclone](https://github.com/rclone/rclone) | rclone | ✅ | ✅ |
+| [Reqable](https://github.com/reqable/reqable-app) | reqable | ✅ | |
 | [RustDesk](https://github.com/rustdesk/rustdesk) | rustdesk | ✅ | ✅ |
 | [Simplenote](https://github.com/Automattic/simplenote-electron) | simplenote | ✅ | ✅ |
 | [思源笔记](https://github.com/siyuan-note/siyuan) | siyuan | ✅ | ✅ |

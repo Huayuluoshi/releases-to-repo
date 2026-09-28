@@ -440,6 +440,12 @@
             "arm64": "rclone-{releases_tag}-linux-arm64.deb"
         }
     },
+    "reqable": {
+        "repo": "reqable/reqable-app",
+        "file_list": {
+            "amd64": "reqable-app-linux-x86_64.deb"
+        }
+    },
     "rustdesk": {
         "repo": "rustdesk/rustdesk",
         "file_list": {

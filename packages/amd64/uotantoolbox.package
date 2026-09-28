@@ -1,18 +1,18 @@
 Package: uotantoolbox
 Architecture: amd64
-Version: 3.7.1
+Version: 3.7.2
 Priority: optional
 Essential: no
 Section: devel
 Maintainer: mujianwu <lrh15563910083@163.com>
 Installed-Size: 268000
 Depends: usbutils, android-tools-adb
-Filename: https://github.com/Uotan-Dev/UotanToolboxNT/releases/download/3.7.1/UotanToolbox_Linux_x64_3.7.1.deb
-Size: 116290242
-MD5sum: e6756726a79f6d1733214fc9d6eeb938
-SHA1: 36ee13e0b676a07192ea657dfc2a6635d3c2bbfb
-SHA256: 85e0c4b9fa80a5e652258504f61abea4e56108dcd8558367c00a99fa8cc3c2bf
-SHA512: 4670ab36107a3e04271ee5789381f31f4a0551b348264e26699c3b4b1d947efbaa4d64901292e591c0373389147073be25c6a3c7e0ffa855aad6d34e6e6f1e88
+Filename: https://github.com/Uotan-Dev/UotanToolboxNT/releases/download/3.7.2/UotanToolbox_Linux_x64_3.7.2.deb
+Size: 116262834
+MD5sum: 61df2960c8605ade2b9b54a55fdcca92
+SHA1: 01781c46b692301eeaf9f511bd10fd332615abc4
+SHA256: a64f121dd47e89928230634ec9b1488c77b291d3f3614ccbff87a7e3df273a99
+SHA512: 5ed7a82d3a81348d8ef7853f5a73e372c5759c9dfc817302205f4be16f75ddfd3908990ef2980ecb09bf72bb4fff090c7a202307201183d79dd3dbea815debb7
 Description: Advanced, Modern Toolbox for Geeks.
 Copyright: 2020-2026 UOTAN
 
