@@ -446,6 +446,13 @@
             "amd64": "reqable-app-linux-x86_64.deb"
         }
     },
+    "reaper-installer": {
+        "repo": "Huayuluoshi/reaper-installer",
+        "file_list": {
+            "amd64": "reaper-installer_{release_tag}_amd64.deb"
+            "arm64": "reaper-installer_{release_tag}_arm64.deb"
+        }
+    },
     "rustdesk": {
         "repo": "rustdesk/rustdesk",
         "file_list": {
